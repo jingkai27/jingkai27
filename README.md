@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jingkai27" alt="jingkai27" /></a> </p>
 
-- 🔭 I’m currently working on **a University web app to answer students' questions in class.**
+- 🔭 I’m currently working on **a University web app to optimise students' QnA in class.**
 
 - 👯 I’m looking to collaborate on **my personal website.**
 
@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Python (for now).**
 
-- 📫 How to reach me **jingkai.t27@gmail.com**
+- 📫 How to reach me: **jingkai.t27@gmail.com**
 
-- ⚡ Fun fact **My 2024 resolution is to commit to GitHub everyday.**
+- ⚡ Fun fact! **My 2024 resolution is to commit to GitHub everyday.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
