@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a University web app to optimise students' QnA in class.**
 
-- 👯 I’m looking to collaborate on **my personal website.**
+- 👯 I’m looking for collaboration on **my personal website.**
 
 - 👨‍💻 All of my projects are available at [jingkai27.github.io/website](jingkai27.github.io/website)
 
