@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact! **My 2024 resolution is to commit to GitHub everyday.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me here:</h3>
 <p align="left">
 </p>
 
