@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td><a href="LINK1"><img src="img/proj_1.jpg"/></a></td>
+    <td><a href="https://github.com/rappleit/LaiLaiTask"><img src="img/proj_1.jpg"/></a></td>
     <td><a href="LINK2"><img src="img/proj_2.jpg"/></a></td>
     <td><a href="LINK3"><img src="img/proj_2.jpg"/></a></td>
   </tr>
