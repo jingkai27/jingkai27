@@ -29,7 +29,7 @@
   <tr>
     <td><a href="https://github.com/rappleit/LaiLaiTask"><img src="img/proj_1.jpg"/></a></td>
     <td><a href="https://github.com/rappleit/MediLingo"><img src="img/health_proj.png"/></a></td>
-    <td><a href="LINK3"><img src="img/proj_2.jpg"/></a></td>
+    <td><a href="https://github.com/xpxchxcx/SpeakEase"><img src="img/speakease.jpg"/></a></td>
   </tr>
   <tr>
     <td><a href="LINK4"><img src="img/proj_2.jpg"/></a></td>
