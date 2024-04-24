@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [jingkai27.github.io/website](jingkai27.github.io/website)
 
-- 💬 Ask me about **Python (for now).**
+- 💬 Ask me about **Python, Java and Algorithms!**
 
 - 📫 How to reach me: **jingkai.t27@gmail.com**
 
