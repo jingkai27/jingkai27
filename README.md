@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **jingkai.t27@gmail.com**
 
-- ⚡ Fun fact! **My 2024 resolution is to commit to GitHub everyday.**
+- ⚡ Fun fact! **My 2024 resolution is :) to commit to GitHub everyday.**
 
 <br>
 <h3 align="left">My Projects:</h3>
