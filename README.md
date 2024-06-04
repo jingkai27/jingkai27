@@ -22,7 +22,7 @@
 - ⚡ Fun fact! **My 2024 resolution is to commit to GitHub everyday.**
 
 <br>
-<h3 align="left">My Projects:</h3>
+<h3 align="left">Portfolio projects:</h3>
 
 
 <table>
