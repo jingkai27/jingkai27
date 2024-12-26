@@ -32,7 +32,7 @@
     <td><a href="https://github.com/xpxchxcx/SpeakEase"><img src="img/speakease.jpg"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://jingkai27.github.io/insight/"><img src="img/proj_4.jpg"/></a></td>
+    <td><a href="./more-readme/INSIGHT_README.md"><img src="img/proj_4.jpg"/></a></td>
     <td><a href="LINK5"><img src="img/proj_5.jpg"/></a></td>
     <td><a href="LINK6"><img src="img/proj_2.jpg"/></a></td>
   </tr>
