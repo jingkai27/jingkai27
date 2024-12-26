@@ -23,13 +23,11 @@
 
 <br>
 <h3 align="left">Portfolio projects:</h3>
-
-
 <table>
   <tr>
-    <td><a href="https://github.com/rappleit/LaiLaiTask"><img src="img/proj_1.jpg"/></a></td>
+    <td><a href="./more-readme/LAILAITASK-README.md"><img src="img/proj_1.jpg"/></a></td>
     <td><a href="https://github.com/rappleit/MediLingo"><img src="img/health_proj.png"/></a></td>
-    <td><a href="https://github.com/xpxchxcx/SpeakEase"><img src="img/speakease.jpg"/></a></td>
+    <td><a href="./more-readme/SPEAKEASE-README.md"><img src="img/speakease.jpg"/></a></td>
   </tr>
   <tr>
     <td><a href="./more-readme/INSIGHT-README.md"><img src="img/proj_4.png"/></a></td>
