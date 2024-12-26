@@ -34,7 +34,7 @@
   <tr>
     <td><a href="./more-readme/INSIGHT-README.md"><img src="img/proj_4.png"/></a></td>
     <td><a href="LINK5"><img src="img/proj_5.jpg"/></a></td>
-    <td><a href="LINK6"><img src="img/proj_2.jpg"/></a></td>
+    <td><a href="https://sites.google.com/mymail.sutd.edu.sg/teambaymax/design-journey?authuser=0"><img src="img/proj_6.jpg"/></a></td>
   </tr>
   <tr>
     <td><a href="LINK7"><img src="img/proj_2.jpg"/></a></td>

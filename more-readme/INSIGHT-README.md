@@ -72,8 +72,4 @@ Feel free to reach out for questions or collaborations:
 
 Name: Tan Jing Kai
 
-LinkedIn: Your LinkedIn Profile
-
 Email: jingkai.t27@gmail.com
-
-GitHub: Your GitHub Profile
