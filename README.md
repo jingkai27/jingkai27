@@ -9,7 +9,7 @@
 
 - 💻 I am a passionate **Computer Science student** studying at SUTD
 
-- 🔭 I’m currently working on **a University web app to optimise students' QnA in class.**
+- 🔭 I’m currently working on **creating 12 Startups in 12 Months!**
 
 - 👯 I’m looking for collaboration opportunities on **improving my personal website.**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **jingkai.t27@gmail.com**
 
-- ⚡ Fun fact! **My 2024 resolution is to commit to GitHub everyday.**
+- ⚡ Fun fact! **My 2025 resolution is to do Leetcode everyday.**
 
 <br>
 <h3 align="left">Portfolio projects:</h3>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td><a href="LINK7"><img src="img/proj_7.jpg"/></a></td>
-    <td><a href="LINK8"><img src="img/proj_2.jpg"/></a></td>
+    <td><a href="https://euphoria-photostrips.vercel.app/"><img src="img/proj_8.png"/></a></td>
     <td><a href="LINK9"><img src="img/proj_2.jpg"/></a></td>
   </tr>
 </table>
