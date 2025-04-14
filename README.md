@@ -37,7 +37,7 @@
   <tr>
     <td><a href="LINK7"><img src="img/proj_7.jpg"/></a></td>
     <td><a href="https://euphoria-photostrips.vercel.app/"><img src="img/proj_8.png"/></a></td>
-    <td><a href="LINK9"><img src="img/proj_2.jpg"/></a></td>
+    <td><a href="./more-readme/ALCOVE-README.md"><img src="img/proj_9.png"/></a></td>
   </tr>
 </table>
 
