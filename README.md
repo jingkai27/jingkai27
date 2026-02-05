@@ -35,13 +35,24 @@
     <td><a href="https://sites.google.com/mymail.sutd.edu.sg/teambaymax/home?authuser=0"><img src="img/proj_6.jpg"/></a></td>
   </tr>
   <tr>
-    <td><a href="LINK7"><img src="img/proj_7.jpg"/></a></td>
+    <td><a href="https://github.com/jingkai27/whocodesbetter"><img src="img/proj_7.png"/></a></td>
     <td><a href="https://euphoria-photostrips.vercel.app/"><img src="img/proj_8.png"/></a></td>
     <td><a href="./more-readme/ALCOVE-README.md"><img src="img/proj_9.png"/></a></td>
   </tr>
 </table>
 
+<br>
+<h3 align="left">Archived Projects:</h3>
+<table>
+  <tr>
+<td><a href="ARCHIVE_LINK1"><img src="img/arch_1.jpg" width="20%"/></a></td>
+    <!-- <td><a href="ARCHIVE_LINK1"><img src="img/archive_1.jpg"/></a></td>
+    <td><a href="ARCHIVE_LINK2"><img src="img/archive_2.jpg"/></a></td>
+    <td><a href="ARCHIVE_LINK3"><img src="img/archive_3.jpg"/></a></td> -->
+  </tr>
+</table>
 
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
