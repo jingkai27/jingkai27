@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jingkai27&label=Profile%20views&color=0e75b6&style=flat" alt="jingkai27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jingkai27" alt="jingkai27" /></a> </p>
-
 - 💻 I am a passionate **Computer Science student** studying at SUTD
 
 - 🔭 I’m currently working on **creating 12 Startups in 12 Months!**
