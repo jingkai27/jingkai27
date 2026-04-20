@@ -7,8 +7,6 @@
 
 - 💻 I am a passionate **Computer Science student** studying at SUTD
 
-- 🔭 I’m currently working on **creating 12 Startups in 12 Months!**
-
 - 👯 I’m looking for collaboration opportunities on **improving my personal website.**
 
 - 👨‍💻 All of my projects are available at [jingkai27.github.io/website](jingkai27.github.io/website)
@@ -16,8 +14,6 @@
 - 💬 Ask me about **Python, Java and Algorithms!**
 
 - 📫 How to reach me: **jingkai.t27@gmail.com**
-
-- ⚡ Fun fact! **My 2025 resolution is to do Leetcode everyday.**
 
 <br>
 <h3 align="left">Portfolio projects:</h3>
@@ -29,8 +25,7 @@
   </tr>
   <tr>
     <td><a href="./more-readme/INSIGHT-README.md"><img src="img/proj_4.png"/></a></td>
-    <td><a href="https://github.com/jingkai27/payments-dashboard"><img src="img/proj_5.png
-    "/></a></td>
+    <td><a href="https://github.com/jingkai27/payments-dashboard"><img src="img/proj_5.png"/></a></td>
     <td><a href="https://sites.google.com/mymail.sutd.edu.sg/teambaymax/home?authuser=0"><img src="img/proj_6.jpg"/></a></td>
   </tr>
   <tr>
