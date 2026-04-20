@@ -26,7 +26,7 @@
   <tr>
     <td><a href="./more-readme/INSIGHT-README.md"><img src="img/proj_4.png"/></a></td>
     <td><a href="./more-readme/MCPOS-README.md"><img src="img/proj_5.png"/></a></td>
-    <td><a href="https://sites.google.com/mymail.sutd.edu.sg/teambaymax/home?authuser=0"><img src="img/proj_6.jpg"/></a></td>
+    <td><a href="./more-readme/CRYBABY-README.md"><img src="img/proj_6.jpg"/></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/jingkai27/whocodesbetter"><img src="img/proj_7.png"/></a></td>
